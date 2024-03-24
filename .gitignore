@@ -1,0 +1,12 @@
+*.sqlite3
+store_management/__pycache__
+alerts/__pycache__
+alerts/migrations/__pycache__
+product/__pycache__
+product/migrations/__pycache__
+reports/__pycache__
+reports/migrations/__pycache__
+sales/__pycache__
+sales/migrations/__pycache__
+user/__pycache__
+user/migrations/__pycache__
